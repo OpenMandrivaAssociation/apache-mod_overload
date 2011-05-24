@@ -6,7 +6,7 @@
 Summary:	Prevents apache overloading by checking load averages
 Name:		apache-%{mod_name}
 Version:	0.2.2
-Release: 	%mkrel 2
+Release: 	%mkrel 3
 Group:		System/Servers
 License:	GPLv2
 URL:		http://sourceforge.net/projects/modoverload/

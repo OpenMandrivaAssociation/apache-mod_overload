@@ -9,7 +9,7 @@ Version:	0.2.2
 Release: 	%mkrel 4
 Group:		System/Servers
 License:	GPLv2
-URL:		http://sourceforge.net/projects/modoverload/
+URL:		https://sourceforge.net/projects/modoverload/
 Source0:	http://heanet.dl.sourceforge.net/sourceforge/modoverload/%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
